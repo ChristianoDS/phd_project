@@ -21,7 +21,7 @@ st.sidebar.markdown("#### Desenvolvido por [Christiano Peres ](https://www.linke
 # =====================================================================
 # Layout no streamlit
 # =====================================================================
-st.header("Ficou com dúvida ❓❓")
+st.header("Links de contato")
 st.divider()
 st.markdown("#### Portifólio de projetos 🚀: https://christianods.github.io/portifolio_projetos")
 st.markdown("#### Linkedin 🔗: https://www.linkedin.com/in/christianods")
