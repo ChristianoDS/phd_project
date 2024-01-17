@@ -1,6 +1,6 @@
 # Importação das bibliotecas
 
-import picnik as pnk  # Biblioteca para cálculo de Ea
+import picnik as pnk 
 import numpy as np
 import pandas as pd
 import plotly.express as px
