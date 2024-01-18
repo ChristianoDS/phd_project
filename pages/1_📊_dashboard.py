@@ -200,7 +200,7 @@ fig24.update_layout(
 #----------------- Barra lateral ---------------------------------------------------------------------------------
 #========================================================================================
 # Configurações iniciais
-st.markdown("# 📱✉️ Entre em contato")
+st.markdown("# 📈 Dashboards ")
 st.sidebar.markdown("# PHD Project")
 st.sidebar.divider()
 st.sidebar.markdown("#### Desenvolvido por [Christiano Peres ](https://www.linkedin.com/in/christianods/)")
