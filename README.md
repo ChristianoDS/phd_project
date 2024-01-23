@@ -1,7 +1,7 @@
 # Phd Project
 
 # Sobre o projeto
-Esse projeto trata da apresentação dos dados gerados através de programação Python e do modelo de Machine Learning (ML) construído como parte da minha tese de doutorado.
+Esse projeto trata da apresentação dos dados gerados através de programação Python e modelo de Machine Learning (ML) construído como parte da minha tese de doutorado.
 
 # Problema de Pesquisa
 O crescente aumento da concentração de dióxido de carbono (CO2) na atmosfera, majoritariamente decorrente de emissões de origem humana, representa uma ameaça significativa à vida na Terra. Nesse contexto, tecnologias de captura e armazenamento de carbono (CCS) têm emergido como soluções promissoras, como a adsorção em materiais carbonosos, destacando-se como uma abordagem proeminente. Capturar esse gás estufa e reduzir custos tornam-se de suma importancia, com isso, surge a necessidade da criação de um modelo preditivo para prever a captura do CO2, reduzindo custos de laboraório e despezas operacionais.
