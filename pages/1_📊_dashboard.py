@@ -207,7 +207,7 @@ st.sidebar.markdown("#### Desenvolvido por [Christiano Peres ](https://www.linke
 # ======================================================================================
 # ------------------ Layout Streamlit --------------------------------------------------
 # ======================================================================================
-tab1, tab2, tab3, tab4 = st.tabs (["FACPFP-4700", "FACBP-4600", "M", "CO2_Prediction"]) 
+tab1, tab2, tab3, tab4 = st.tabs (["FACPFP-4700", "FACBP-4600", "FACM-4450", "CO2_Prediction"]) 
 with tab1:
     st.markdown ("### Métricas de análise térmica: FACPFP-4700")
     st.divider()
