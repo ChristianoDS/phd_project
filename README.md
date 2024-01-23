@@ -26,7 +26,7 @@ Esse dashboard foi dividido em 2 abas:
 # O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O painel pode ser acessado através desse link: [https://christiano-zomato-project.streamlit.app/]
+O painel pode ser acessado através desse link: [https://phdproject-christiano.streamlit.app/]
 
 # Conclusão
 Para essa tese, o modelo de machine learning de regressão linear múltipla melhorado com validação cruzada apresentou uma precisão de 89%. Área BET e volume de microporos são features extremamente relevantes no modelo preditivo.
