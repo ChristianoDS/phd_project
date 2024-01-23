@@ -13,7 +13,6 @@ st.set_page_config(page_title='Contato',page_icon='✉️',layout='wide')
 #----------------- Barra lateral ---------------------------------------------------------------------------------
 #========================================================================================
 # Configurações iniciais
-st.markdown("# 📱✉️ Entre em contato")
 st.sidebar.markdown("# PHD Project")
 st.sidebar.divider()
 st.sidebar.markdown("#### Desenvolvido por [Christiano Peres ](https://www.linkedin.com/in/christianods/)")
