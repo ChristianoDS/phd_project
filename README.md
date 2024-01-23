@@ -14,11 +14,11 @@ O conjunto de dados do dataframe já se encontra limpo e processado, não havend
 # Estratégia de solução do problema
 Esse dashboard foi dividido em 2 abas:
 
-- 📊 Dashboard 
-Nessa aba estão representados painéis interativos referentes as análises térmicas das amostras FACPFP-4700, FACBP-4600 e FACM-4450 e modelo preditivo aprimorado por validação cruzada.
+📊 Dashboard 
+- Nessa aba estão representados painéis interativos referentes as análises térmicas das amostras FACPFP-4700, FACBP-4600 e FACM-4450 e modelo preditivo aprimorado por validação cruzada.
 
 ✉️ Contato 
-Aba de contato traz as principais formas que você pode entrar em contato comigo.
+- Aba de contato traz as principais formas que você pode entrar em contato comigo.
 
 # Principais insights
 - Para esse estudo, área superficial BET e volume de microporo explicam cerca de 89% da captura de CO2.
