@@ -1,4 +1,4 @@
-# phd_project
+# Phd Project
 
 # Sobre o projeto
 Esse projeto trata da apresentação dos dados gerados através de programação Python e do modelo de Machine Learning (ML) construído como parte da minha tese de doutorado.
