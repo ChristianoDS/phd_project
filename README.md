@@ -32,8 +32,8 @@ O painel pode ser acessado através desse link: https://phdproject-christiano.st
 Para essa tese, o modelo de machine learning de regressão linear múltipla melhorado com validação cruzada apresentou uma precisão de 89%. Área BET e volume de microporos são features extremamente relevantes no modelo preditivo.
 
 # Próximos passos
-Testar mais modelos de machine learning, como redes neurais aritificais. 
-Realizar experimentação com outras temperaturas (500, 800 e 1000°C)
+- Testar mais modelos de machine learning, como redes neurais aritificais. 
+- Realizar experimentação com outras temperaturas (500, 800 e 1000°C)
 
 # Ferramentas utilizadas:
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
